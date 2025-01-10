@@ -24,16 +24,30 @@ builder.Services.AddSwaggerGen();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+//if (app.Environment.IsDevelopment())
+//{
+//    app.UseSwagger();
+//    app.UseSwaggerUI();
+//}
+
+
 
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
 app.MapControllers();
+
+app.UseSwagger();
+app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "Asser Management System API V1"); });
+
+//Redirect to Swagger by default
+app.Use(async (context, next) =>
+{
+    if (context.Request.Path == "/")
+        context.Response.Redirect("/swagger");
+    else
+        await next();
+});
 
 app.Run();
