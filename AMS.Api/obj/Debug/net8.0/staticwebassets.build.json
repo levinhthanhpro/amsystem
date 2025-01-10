@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "idhdh3ku2tsPGG9J3ipraEVC4fbUQIlvdkMrBD+2JW0=",
+  "Source": "AMS.Api",
+  "BasePath": "_content/AMS.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

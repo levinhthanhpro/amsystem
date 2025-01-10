@@ -1,0 +1,15 @@
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\bin\Debug\net8.0\AMS.Data.deps.json
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\bin\Debug\net8.0\AMS.Data.runtimeconfig.json
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\bin\Debug\net8.0\AMS.Data.dll
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\bin\Debug\net8.0\AMS.Data.pdb
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\AMS.Data.csproj.AssemblyReference.cache
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\AMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\AMS.Data.AssemblyInfoInputs.cache
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\AMS.Data.AssemblyInfo.cs
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\AMS.Data.csproj.CoreCompileInputs.cache
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\AMS.Data.sourcelink.json
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\AMS.Data.dll
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\refint\AMS.Data.dll
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\AMS.Data.pdb
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\AMS.Data.genruntimeconfig.cache
+D:\OneDrive\PC\CONGVIEC-VNSOGROUP\DU-AN\soft-assetmanagementsystem\BACKEND\AMS.Data\obj\Debug\net8.0\ref\AMS.Data.dll
